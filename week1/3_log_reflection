@@ -1,0 +1,45 @@
+## Part 1: ASK — Improving My Questions
+
+I used AI to explore different questions about price changes and differences between cities. My original questions focused on whether prices increased over time and whether the same products had different prices in City 1 and City 2.
+
+ChatGPT suggested five alternative questions:
+
+1. Did the prices of all four items increase over the recorded dates?
+2. Were the same items consistently more expensive in City 2 than in City 1?
+3. Which item had the largest price increase during the recorded period?
+4. Did rising prices cause people to buy fewer groceries?
+5. Did transportation costs cause price differences between the two cities?
+
+## Part 2: CHECK — Evaluating AI Suggestions
+
+**Question 1: Did the prices of all four items increase over the recorded dates?**
+
+This question can be investigated because the dataset contains dates, items, and prices. I can compare the prices of each item over time within the same city.
+
+**Question 2: Were the same items consistently more expensive in City 2 than in City 1?**
+
+This question can also be investigated because the dataset includes city, item, date, and price information. I can compare the same products on the same dates to identify price differences.
+
+**Question 3: Which item had the largest price increase during the recorded period?**
+
+This question is suitable because the dataset contains the information needed to compare price changes. I can compare the first and last recorded prices of each item within the same city.
+
+**Question 4: Did rising prices cause people to buy fewer groceries? — Rejected**
+
+I rejected this question because the dataset does not contain information about how many groceries people purchased. It only contains price records, so it cannot show changes in buying behaviour.
+
+**Question 5: Did transportation costs cause price differences between the two cities? — Rejected**
+
+I rejected this question because the dataset does not contain transportation costs. Although it shows prices from different cities, it cannot explain what caused those differences.
+
+## Part 3: REFLECT — What the Dataset Can and Cannot Tell Us
+
+The dataset helps us understand how prices of different items change over time and how prices differ between cities. It contains information about dates, items, cities, and prices, which makes basic comparisons possible. However, it cannot explain why prices increase or decrease because it does not include information about transportation costs, demand, or people's incomes. The prices are also fictional, so they cannot be used to make conclusions about actual prices in Pakistan. This assignment helped me understand that even if a question sounds interesting, we must first check whether the available data can actually answer it.
+
+## Part 4: Three-Sentence Reflection on AI Suggestions
+
+The most tempting AI suggestion was about transportation costs causing price differences between cities. It sounded reasonable because transportation can affect prices, but the dataset does not contain transportation cost information. I learned that a reasonable explanation is not always supported by the available data.
+
+## Conclusion
+
+This assignment helped me understand that data analysis is not only about running Python code. It is also about asking meaningful questions, checking information carefully, and understanding the limitations of a dataset. I learned that AI can provide useful suggestions, but those suggestions should always be checked before accepting them.
